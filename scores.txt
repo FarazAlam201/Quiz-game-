@@ -1,0 +1,9 @@
+Osama;50
+Faraz;50
+Sufyan;40
+Zack;100
+asad;90
+Hunain;80
+Abdul Moiz;90
+Abdul Moiz;100
+Abdul Moiz;90

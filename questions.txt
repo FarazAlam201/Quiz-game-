@@ -1,0 +1,11 @@
+Which company created Java?;Sun Microsystems;Starbucks;Microsoft;Alphabet;A
+Which year was Java created?;1989;1996;1972;1492;B
+What was Java originally called?;Apple;Latte;Oak;Koffing;C
+Who is credited with creating Java?;Steve Jobs;Bill Gates;James Gosling;Mark Zuckerburg;C
+Who is the founder of Facebook?;Steve Jobs;Bill Gates;James Gosling;Mark Zuckerburg;D
+The term ‘Computer’ is derived from__________?;Latin;German;French;Arabic;A
+The basic operations performed by a computer are__________?;Arithmetic operation;Logical operation;Storage and relative;All the above;D
+Who is the father of Internet ?;Chares Babbage;Vint Cerf;Denis Riche;Martin Cooper;B
+What type of operating system MS-DOS is?;Command Line Interface;Graphical User Interface;Multitasking;Menu Driven Interface;A
+VGA is____________?;Video Graphics Array;Visual Graphics Array;Volatile Graphics Array;Video Graphics Adapter;A
+What does DMA stand for?;Distinct Memory Access;Direct Memory Access;Direct Module Access;Direct Memory Allocation;B
